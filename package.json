@@ -1,5 +1,6 @@
 {
   "name": "conways-game-of-life",
+  "homepage": "https://arijit-gogoi.github.io/game-of-life-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
